@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-image: linear-gradient(0deg,rgb(0,0,0,0), rgb(0,4,0)), url('./images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1.banner-heading1.banner-txt {
+    color: white;
+    font-size: 72px;
+    margin-left: -69px;
+ } 
+ 
+ h3.banner-heading3.banner-txt {
+    color: white;
+    font-size: 32px;
+    margin-top: 35px;
+    margin-left: -50px;
+
+}
+.main {
+    text-align: center;
+    margin-top: 110px;
+}
+h1.main-h1 {
+    font-size: 88px;
+    color: red;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+h3.main-h3 {
+    font-size: 24px;
+    color: red;
+    margin-top: 48px;
+    font-family: none;
+}
+h2.main-h2 {
+    margin-top: 16px;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+img.main-image {
+    margin-top: 48px;
+}
+/* wel page */
+.welcome-bg {
+    background-image:linear-gradient(275deg,rgb(0,0,0,0), rgb(0,4,0)), url(./images/Vectorrr.png);
+    width: 1320px;
+    height: 602px;
+    margin: 0 auto;
+    margin-top: 120px;
+     border-radius: 16px;
+}
+img.wel-img {
+    margin-left: 855px;
+    margin-top: -385px;
+}
+.h1-h2-p {
+    color: white;
+    display: block;
+    padding-top: 140px;
+    margin-left: 126px;
+}
+
+h1.wel-h1 {
+    font-size: 64px;
+    font-family: math;
+}
+
+p.wel-p {
+    font-size: 19px;
+    margin-top: 24px;
+    font-family: sans-serif;
+     color: #ffffffc4;
+
+}
+
+h4.wel-h4 {
+    margin-top: 48px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+/* info start */
+.info-main {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(255, 192, 203, 0.596));
+    width: 1320px;
+    height: 482px;
+    margin: 0 auto;
+    border-radius: 16px;
+    margin-top: 116px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    font-size: 32px;
+}
+
+.info-main span {
+    color: rgb(0, 0, 0);
+}
+
+.info-main .red{
+    color: red;
+     margin-top: 15px;
+     margin-top: 15px;
+
+}
+
+.info-2 {
+    margin-top: -50px;
+    font-family: sans-serif;
+}
+button {
+    width: 167px;
+    height: 56px;
+    background: red;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    margin-top: 53px;
+}
+/* comming soon */
+section.comming {
+    width: 1320px;
+    height: 463px;
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+    margin-top: 120px;
+    border-radius: 14px;
+}
+.comming-main {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 147px;
+}
+h3.h3-comming {
+    font-size: 24px;
+    color: red;
+    font-family: monospace;
+    
+}
+h1.h1-comming {
+    font-size: 48px;
+    font-weight: bold;
+     margin-top: 16px;
+}
+p.p-cooming {
+    margin-top: 22px;
+    font-size: 20px;
+    font-family: math;
+    color: #07021187;
+}
+h1.col-h1 {
+    font-size: 48px;
+    color: red;
+    font-family: sans-serif;
+}
+p.col-p {
+    font-size: 20px;
+    margin-top: 16px;
+    color: #07021187;
+}
+img.col-img {
+    margin-top: 48px;
+}
+
+img.com-man {
+    border: 15px solid red;
+    border-radius: 50%;
+    padding: 33px;
+    margin-left: 460px;
+    margin-top: -323px;
+}
+.comming-col2 {
+    margin-top: -35px;
+}
+.col3div {
+    margin-top: -35px;
+}
+/* holiday */
+section.holiday {
+    width: 1320px;
+    height: 986.07px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 120px;
+    border-radius: 17px;
+}
+.holiday-main {
+    display: flex
+;
+    flex-direction: column;
+    text-align: center;
+    gap: 16px;
+}
+img.Rectangle {
+    margin-top: 51px;
+    display: block;
+}
+img.Group75 {
+    margin-top: -626px;
+    display: block;
+}
+img.Group44 {
+    margin-left: 959px;
+    margin-top: 271px;
+    display: block;
+}
+h5.holiday-h5 {
+    font-size: 24px;
+    font-family: math;
+    font-weight: 100;
+}
+h1.holiday-h1 {
+    font-size: 72px;
+}
+.holiday-main span{
+    color: red;
+}
+p.holiday-p {
+    margin-top: 12px;
+    font-size: 20px;
+    color: #07021187;
+}
