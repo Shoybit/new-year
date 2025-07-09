@@ -234,3 +234,62 @@ p.holiday-p {
     font-size: 20px;
     color: #07021187;
 }
+/* gift */
+section.gift {
+    margin-top: 210px;
+}
+.gift-main {
+    width: 1320px;
+    height: 1140px;
+    background: white;
+    margin-top: 203px;
+    margin: 0 auto;
+}
+h5.gift-h5 {
+    font-size: 24px;
+    color: red;
+    font-weight: 100;
+}
+h3.gift-h4 {
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+p.gift-p {
+    font-size: 20px;
+    color: #0702118c;
+    margin-top: 22px;
+}
+.gift-img {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-top: 48px;
+}
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    background-color: aqua;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+img.sub-img {
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 80px;
+
+}
+.subscribe-main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1.sub-h1 {
+    margin-top: 40px;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+p.sub-p {
+    font-size: 20px;
+    margin-top: 22px;
+}
